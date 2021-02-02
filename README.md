@@ -1,5 +1,7 @@
 # 合成丸山菜
 
+![丸山彩](https://github.com/mitian233/ayachan/blob/master/Aya_PICO_Icon.png?raw=true "丸山彩")
+
 ## 我不是彩黑
 
 ### 已知问题 
